@@ -33,7 +33,4 @@ This project predicts rainfall based on key weather parameters such as pressure,
 
 ---
 
-## Installation
-1. Clone the repository:
-```bash
-git clone <repository-url>
+
